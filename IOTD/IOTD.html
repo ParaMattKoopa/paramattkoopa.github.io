@@ -1,0 +1,49 @@
+<html>
+<head>
+<link rel="stylesheet" href="stupidfont.css">
+<meta charset="utf-8">
+<title>Idiot of the day</title>
+    <script>
+window.onload = function openWin() {
+  myWindow = window.open('smolwin.html', '', 'width=400, height=200');
+}
+
+    </script>
+ 
+<style>
+#container {
+	margin: 0px auto;
+	width: 500px;
+	height: 375px;
+	border: 10px #333 solid;
+}
+#videoElement {
+	width: 500px;
+	height: 375px;
+	background-color: #666;
+}
+</style>
+</head>
+ 
+<body>
+<div id="container">
+	<video autoplay="true" id="videoElement">
+	
+	</video>
+</div>
+<script>
+var video = document.querySelector("#videoElement");
+
+if (navigator.mediaDevices.getUserMedia) {
+  navigator.mediaDevices.getUserMedia({ video: true })
+    .then(function (stream) {
+      video.srcObject = stream;
+    })
+    .catch(function (err0r) {
+      console.log("bruh forgor webcam lmao");
+    });
+}
+</script>
+<center><H1>Idiot Of The Day</H1>
+</body>
+</html>

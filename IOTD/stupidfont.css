@@ -1,0 +1,16 @@
+@font-face {
+  font-family: Spice;
+  src: url(BungeeSpice.ttf);
+}
+H1 {
+  font-family: Spice;
+  font-size: 75px;
+}
+body {
+  width: 50%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+body { background-image: url("bg.jpg"); }
