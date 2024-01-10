@@ -10,6 +10,9 @@ https://pr.paramatt.com/SpinFish/
 
 https://pr.paramatt.com/IOTD/
 
+
+Spinning Fish on Google Play: https://play.google.com/store/apps/details?id=com.paramattyt.spinningfish
+
 --------------------------
 View the source code of all these pages here:
 https://github.com/ParaMattKoopa/paramattkoopa.github.io/tree/main
