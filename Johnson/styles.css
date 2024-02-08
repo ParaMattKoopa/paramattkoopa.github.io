@@ -1,0 +1,47 @@
+@font-face {
+  font-family: salt;
+  src: url(ugly.ttf);
+}
+
+H1 {
+  font-family: salt;
+  font-size: 30px;
+}
+H2 {
+  font-family: salt;
+  font-size: 60px;
+}
+H3 {
+  font-family: salt;
+  font-size: 50px;
+}
+H4 {
+  font-family: salt;
+  font-size: 40px;
+}
+H5 {
+  font-family: salt;
+  font-size: 30px;
+}
+H6 {
+  font-family: salt;
+  font-size: 20px;
+}
+P {
+  font-family: salt;
+  font-size: 20px;
+}
+body {
+   animation-name: ohshit;
+  animation-duration: 5s;
+  animation-iteration-count: infinite; 
+}
+@keyframes ohshit {
+  0%   {background-color: blue;}
+  20%  {background-color: green;}
+  40%  {background-color: yellow;}
+  60% {background-color: terra cotta;}
+  80% {background-color: cyan;}
+  100% {background-color: blue;}
+  animation-duration: infinite;
+}
