@@ -6,21 +6,19 @@ Feel free to share away.
 ## IOTD Requires Camera Access to Work Properly !!!
 --------------------------
 Pages:
-https://pr.paramatt.com/SpinFish/
 
-https://pr.paramatt.com/IOTD/
+[SpinFish](/SpinFish/)
 
-https://pr.paramatt.com/frik/
+[IOTD](/IOTD/)
 
-https://pr.paramatt.com/Johnson/
+[frik](/frik/)
+
+[Johnson Cars](/Johnson/)
 
 
-Spinning Fish on Google Play: 
-https://play.google.com/store/apps/details?id=com.paramattyt.spinningfish
+[Spinning Fish on Google Play](https://play.google.com/store/apps/details?id=com.paramattyt.spinningfish)
 
-IOTD on Google Play:
-https://play.google.com/store/apps/details?id=com.paramattyt.iotd
+[IOTD on Google Play](https://play.google.com/store/apps/details?id=com.paramattyt.iotd)
 
 --------------------------
-View the source code of every page here:
-https://github.com/ParaMattKoopa/paramattkoopa.github.io/tree/main
+View the source code of every page [here](https://github.com/ParaMattKoopa/paramattkoopa.github.io/tree/main)
