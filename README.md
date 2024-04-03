@@ -1,4 +1,3 @@
-# paramattkoopa.github.io
 personal html projects
 This is where I store random HTML and CSS things I make.
 Feel free to share away.
@@ -23,3 +22,7 @@ Pages:
 
 --------------------------
 View the source code of every page [here](https://github.com/ParaMattKoopa/paramattkoopa.github.io/tree/main)
+--------------------------
+# Non-HTML Projects:
+[ShutDownLua](https://github.com/ParaMattKoopa/ShutdownLua/tree/main)
+A Simple Lua Program To Shutdown Windows
