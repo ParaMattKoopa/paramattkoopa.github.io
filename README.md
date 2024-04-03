@@ -22,7 +22,22 @@ Pages:
 
 --------------------------
 View the source code of every page [here](https://github.com/ParaMattKoopa/paramattkoopa.github.io/tree/main)
---------------------------
+
+
 # Non-HTML Projects:
-[ShutDownLua](https://github.com/ParaMattKoopa/ShutdownLua/tree/main)
-A Simple Lua Program To Shutdown Windows
+
+## ShutDownLua
+
+[Source](https://github.com/ParaMattKoopa/ShutdownLua/tree/main)
+
+[Download](https://github.com/ParaMattKoopa/ShutdownLua/releases/download/Release/main.exe)
+
+A Simple Lua Program To Shutdown Windows (Compiled With LuaRT)
+
+## W27MTBWW
+
+[Source](https://github.com/ParaMattKoopa/W27MTBWW)
+
+(No Precompile Avalible)
+
+Joke Game I Made In AFrame For My IT Class
