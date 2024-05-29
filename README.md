@@ -30,7 +30,7 @@ View the source code of every page [here](https://github.com/ParaMattKoopa/param
 
 [Source](https://github.com/ParaMattKoopa/ShutdownLua/tree/main)
 
-<iframe frameborder="0" src="https://itch.io/embed/2736451?bg_color=000000&amp;fg_color=fe9494&amp;link_color=b30c0c&amp;border_color=8c3030" width="552" height="167"><a href="https://paramattkoopa-lolking.itch.io/sdl">ShutdownLua by ParaMattKoopa Lolking</a></iframe>
+<iframe frameborder="0" src="https://itch.io/embed/2736451?bg_color=000000&amp;fg_color=fe9494&amp;link_color=b30c0c&amp;border_color=8c3030" width="582" height="167"><a href="https://paramattkoopa-lolking.itch.io/sdl">ShutdownLua by ParaMattKoopa Lolking</a></iframe>
 
 A Simple Lua Program To Shutdown Windows (Compiled With LuaRT)
 
