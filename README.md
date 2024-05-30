@@ -14,6 +14,8 @@ Pages:
 
 [Johnson Cars](/Johnson/)
 
+[W27MTBWW](/bww/)
+
 --------------------------
 
 [Spinning Fish on Google Play](https://play.google.com/store/apps/details?id=com.paramattyt.spinningfish)
@@ -33,11 +35,3 @@ View the source code of every page [here](https://github.com/ParaMattKoopa/param
 <iframe frameborder="0" src="https://itch.io/embed/2736451?bg_color=000000&amp;fg_color=fe9494&amp;link_color=b30c0c&amp;border_color=8c3030" width="582" height="167"><a href="https://paramattkoopa-lolking.itch.io/sdl">ShutdownLua by ParaMattKoopa Lolking</a></iframe>
 
 Jokeware coded in LUA compiled with LuaRT that I coded over the span of 2 months!
-
-## W27MTBWW
-
-[Source](https://github.com/ParaMattKoopa/W27MTBWW)
-
-(No Precompile Avalible)
-
-Joke Game I Made In AFrame For My IT Class
